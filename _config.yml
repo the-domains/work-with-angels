@@ -1,0 +1,28 @@
+name: Work With Angels
+favicon: null
+layout_spectrum: 0.715645779389888
+typography_spectrum: 0.10100309760309756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.734634016174823
+  lightness: 0.7237194678746164
+  saturation: 0.5413242313079536
+  rhythmicContrast: 0.7567880931310356
+purpose: []
