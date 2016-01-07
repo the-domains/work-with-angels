@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Work With Angels]]></title>
         <description><![CDATA[Work With Angels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/work-with-angels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 19:42:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 01:41:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/work-with-angels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Energy Therapies]]></title>
+            <description><![CDATA[<article><h1>Energy Therapies</h1><p>A brief description of different healing modalities. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b29ef34ba68979012dd6b187332727ac1bc840f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/work-with-angels/energy-therapies/index.html</link>
+            <guid isPermaLink="false">c43d9984-bab2-40a8-a765-7f0276754832</guid>
+            <pubDate>Thu, 07 Jan 2016 01:40:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Work With Angels]]></title>
-            <description><![CDATA[<article><h1>Work With Angels</h1><p>Gina & Jeane</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29ce55938d2607f70f783d5e20a4238ab794711b.jpg"></article>]]></description>
-            <link>undefined3ca89be4-4c6f-4bab-9a1f-6765e3bd511d/index.html</link>
+            <description><![CDATA[<article><h1>Work With Angels</h1><p>Gina & Jeane</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9028a588e2434e668ad3ed0118366ec573275d9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/work-with-angels/3ca89be4-4c6f-4bab-9a1f-6765e3bd511d/index.html</link>
             <guid isPermaLink="false">3ca89be4-4c6f-4bab-9a1f-6765e3bd511d</guid>
             <pubDate>Wed, 06 Jan 2016 19:42:45 GMT</pubDate>
         </item>
